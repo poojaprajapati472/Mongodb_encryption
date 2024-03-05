@@ -1,0 +1,6 @@
+/dist
+/node_modules
+master-key.txt
+./mongocryptd.pid
+.env.local
+package-lock.json
